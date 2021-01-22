@@ -1,0 +1,8 @@
+nltk
+pandas
+numpy
+matplotlib
+pyLDAvis
+stockstats
+datetime
+pyspark
