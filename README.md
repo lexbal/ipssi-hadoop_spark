@@ -11,3 +11,6 @@ Install Stockstats, DateTime, PySpark
 - BTC Volume
 
 ![](https://media.discordapp.net/attachments/778202761291366400/802110083966173214/unknown.png)
+
+
+all data comes from the [kraken exchange](https://www.kraken.com/fr-fr/) 
